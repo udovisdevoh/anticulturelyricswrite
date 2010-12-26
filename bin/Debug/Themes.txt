@@ -15,7 +15,8 @@ married, beloved, embracing, wedding, hug,
 purest, attraction, marry, embraces, entwined, 
 passions, sweetness, sweet, admire, seduction, 
 kissin, passionate, seduced, marriage, caressing, 
-swan, caressed, desired, relationships, seduce
+swan, caressed, desired, relationships, seduce, 
+adored, seductive
 </theme>
 
 <theme name="life" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="8,13,40,46,48,49,50,51,72,73,74,75,76,77,78,79,104,110" accompinstru="57,68,69,70" doublebeat="0" introbarcount="4" solobarcount="4">
@@ -25,7 +26,7 @@ survived, reborn, rebirth, born, live,
 breath, immortality, generations, lifes, newborn, 
 vital, healthy, conceived, conceive, conception, 
 resurrect, surviving, pregnant, hells, survivor, 
-offspring, fertile, survives
+offspring, fertile, survives, emerging
 </theme>
 
 <theme name="urban" intervals="0,2,4,9,12,14,16,21" ternary="-1" melodyinstru="4,48,49,50,51,27,28,31" accompinstru="33,34,35,36,37,38,39" doublebeat="0" introbarcount="2" solobarcount="0">
@@ -62,7 +63,7 @@ detroit, hazy, upstairs, stroll, suburban,
 subway, skyline, facade, urban, boston, 
 memphis, thrash, trucks, beggar, ambulance, 
 rubble, neighbours, sideways, angeles, gateway, 
-sewer, hometown, motel
+sewer, hometown, motel, stations, beggars, tunnels
 </theme>
 
 <theme name="fight" intervals="0,2,4,9,12,14,16,21" ternary="1" melodyinstru="29,30,55,56" accompinstru="47,33,34,35,36,37,38,39" doublebeat="1" introbarcount="2" solobarcount="8">
@@ -89,7 +90,8 @@ defence, conquering, murderers, assassin, menace,
 threatening, strangle, hurtin, compete, vietnam, 
 eliminate, destruct, attacked, versus, missiles, 
 exterminate, trauma, cannon, slaying, struggles, 
-threatened, defying, ammunition, rival, retaliation, battlefields
+threatened, defying, ammunition, rival, retaliation, 
+battlefields, divides, bash
 </theme>
 
 <theme name="gore" intervals="2,4,5,11,14,16,17,23" ternary="0" melodyinstru="14,19" accompinstru="42,43,47,116,119,127" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -115,7 +117,7 @@ torturing, hells, cadaver, rots, bloodied,
 festering, rotted, tortures, chainsaw, disfigured, 
 gagged, cannibal, rapes, jagged, bloodshot, 
 spew, slashing, mutilate, bloodbath, bloodline, 
-atrocities, slaughtering, butchery, cadavers
+atrocities, slaughtering, butchery, cadavers, putrefaction
 </theme>
 
 <theme name="money" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="1,10,48,49,50,51,55,56,59,60,124,80,81,86,87" accompinstru="32,35,36,37,38,39" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -153,7 +155,8 @@ exchange, account, sells, vegas, workers,
 labor, jewel, capital, production, fraud, 
 fee, property, coin, lawyer, goods, 
 token, gamble, bets, trading, benefit, 
-beggar, profits, payback, priceless, scam, consumption
+beggar, profits, payback, priceless, scam, 
+consumption, payin, beggars, richer, expense
 </theme>
 
 <theme name="nature" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="8,12,15,24,123,104,75,109" accompinstru="96,97,98,99,100,101,102,103,122" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -203,7 +206,8 @@ springs, isle, hooves, summers, ant,
 nighttime, shark, petals, bolt, rainbows, 
 weeds, tidal, vulture, whirlwind, sharks, 
 fertile, iced, blossom, element, africa, 
-mice, rocky, thunders, hawk, swamp
+mice, rocky, thunders, hawk, swamp, 
+meadow, earthquake, thundering, firmament, creek
 </theme>
 
 <theme name="death" intervals="2,4,5,11,14,16,17,23" ternary="1" melodyinstru="40,41,45,48,49,50,56,57" accompinstru="32,42,43,47,58,116,127" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -257,7 +261,8 @@ diseases, suffocation, sacrifices, eliminate, ominous,
 shark, survivor, injection, termination, entombed, 
 abortion, exterminate, vulture, sharks, trauma, 
 terminate, slaying, perished, testament, atrocities, 
-devastating, hangman, extinct, extinguished
+devastating, hangman, extinct, extinguished, stillborn, dreary,
+agonizing
 </theme>
 
 <theme name="religion" intervals="0,2,4,9,12,14,16,21" ternary="-1" melodyinstru="14,19,61" accompinstru="14,42,43,47" doublebeat="0" introbarcount="2" solobarcount="8">
@@ -303,7 +308,7 @@ sinned, sabbath, allah, angelic, inquisition,
 heresy, jehovah, ascending, scriptures, holiness, 
 doctrine, impurity, jews, confessions, immaculate, 
 limbo, testament, redeemer, communion, praised, 
-worshipped, praises, altars, chapel
+worshipped, praises, altars, chapel, penance
 </theme>
 
 <theme name="gangsta" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="0,11,24,25,50,55,51,65,81,105,114" accompinstru="33,34,35,36,37,39,39,117,116" doublebeat="0" introbarcount="3" solobarcount="0">
@@ -333,7 +338,7 @@ tag, bounce, thugs, pill, mc,
 homies, rappin, powder, mamma, hustlin, 
 meth, heroin, bro, biggie, raps, 
 alibi, whack, criminals, sista, blunts, 
-dealers, harlem, outlaw, ecstacy
+dealers, harlem, outlaw, ecstacy, gangs
 </theme>
 
 <theme name="racism" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="14,19" accompinstru="42,43,47,116,119,127" doublebeat="1" introbarcount="2" solobarcount="4">
@@ -374,12 +379,10 @@ nowadays, permanent, ultimate, final, temporary,
 meanwhile, ages, age, eternaryly, centuries, 
 infinity, suddenly, dawn, infinite, awaiting, 
 long, last, years, soon, eternal, 
-moment, ancient, ago, 
-later, eternally, 
-cycle, timeless, 
-endlessly, instant, neverending, perpetual, 
-rewind, aeons, hourglass, 
-delay, clocks
+moment, ancient, ago, later, eternally, 
+cycle, timeless, endlessly, instant, neverending, 
+perpetual, rewind, aeons, hourglass, delay, 
+clocks, slower
 </theme>
 
 <theme name="social" intervals="0,4,5,7,12,16,17,19" ternary="-1" melodyinstru="0,2,3,24,25,48,49,50,51,65" accompinstru="32,33,34,35,36,37,38,39" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -415,7 +418,8 @@ tonite, invited, entertain, baseball, companion,
 winners, fella, popular, teen, behaviour, 
 avoiding, nighttime, exciting, trading, cruising, 
 ale, backstage, pub, tickets, enjoying, 
-sports, happier, hangman, enjoyed, joys
+sports, happier, hangman, enjoyed, joys, 
+pal, happily, distraction, smilin
 </theme>
 
 <theme name="communication" intervals="0,4,5,7,12,16,17,19" ternary="-1" melodyinstru="0" accompinstru="32,33,34,35,36,37,38,39" doublebeat="0" introbarcount="2" solobarcount="0">
@@ -435,7 +439,8 @@ explanation, proved, asks, argue, communication,
 declare, response, suggest, proven, listens, 
 speakin, sincerity, phrase, verbal, leaning, 
 statement, nod, gossip, argument, communicate, 
-insist, questioned, respond
+insist, questioned, respond, quote, proves, 
+phrases, smilin, unspeakable, contradictions
 </theme>
 
 <theme name="art" intervals="0,4,5,7,12,16,17,19" ternary="0" melodyinstru="0,68,15,16,17,18,19,20,21,22,23,24,25,26,40,41,42,44,45,46,49,50,51,61,73,104,105,106,107,108,109,110,111" accompinstru="19,32,33,34,35,36,37,38,39,42,43,57,58" doublebeat="0" introbarcount="2" solobarcount="0">
@@ -480,7 +485,7 @@ hymns, chants, melodies, carrion, sounding,
 singer, enchanting, serenade, swingin, swings, 
 trumpets, tones, verses, instruments, tempo, 
 backstage, chord, tickets, noises, tapes, 
-humming, waltz, choirs
+humming, waltz, choirs, instrument
 </theme>
 
 <theme name="sex" intervals="0,2,4,9,12,14,16,21" ternary="-1" melodyinstru="64,65,66,26,27,28" accompinstru="33,34,35,36,37,38,39,66,67" doublebeat="0" introbarcount="2" solobarcount="0">
@@ -496,13 +501,12 @@ hookers, phalus, cunt, blowjob, vagina,
 desire, tight, spread, pleasure, wet, 
 spreading, desires, satisfied, ecstasy, cum, 
 satisfaction, satisfy, pleasures, spreads, toy, 
-toys, envy, penetrate, moan, 
-breast, obscene, attraction, perversion, semen, 
-banging, perverted, seduction, erotic, panties, 
-bra, rack, tempted, sperm, 
-depraved, lustful, moans, orgy,
-temptations, orgasm, impulse, 
-porno, desired, masturbate, clit, ecstacy,
+toys, envy, penetrate, moan, breast, 
+obscene, attraction, perversion, semen, banging, 
+perverted, seduction, erotic, panties, bra, 
+rack, tempted, sperm, depraved, lustful, 
+moans, orgy, temptations, orgasm, impulse, 
+porno, desired, masturbate, clit, ecstacy, 
 erection, motel
 </theme>
 
@@ -519,7 +523,8 @@ existence, necessary, opposite, spiritual, consequence,
 emptiness, essence, human, infinite, infinity, 
 nothingness, entropy, dimension, evolution, dimensions, 
 exists, absolute, intelligence, afterlife, vortex, 
-existance, transcend, enlighten
+existance, transcend, enlighten, transcendent, transcendence, 
+immanence, immanent
 </theme>
 
 <theme name="philosophy" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="104" accompinstru="33,34,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -570,7 +575,8 @@ wired, owns, hack, screens, synthetic,
 icons, clone, lunar, streaming, utopia, 
 equals, entangled, structures, intellect, hacked, 
 experiment, dna, futures, genetic, invented, 
-laser, clones, smarter, chess
+laser, clones, smarter, chess, angles, 
+emerging, lab, galaxies, research, quantum
 </theme>
 
 <theme name="exclamation" intervals="0,2,4,9,12,14,16,21" ternary="-1" melodyinstru="0,2,3,24,25,48,49,50,51,65" accompinstru="32,33,34,35,36,37,38,39" doublebeat="1" introbarcount="3" solobarcount="2">
@@ -609,7 +615,7 @@ throats, chin, limb, muscle, jaw,
 necks, breasts, skins, tattoo, wirst, 
 rear, eyelids, ribs, muscles, liver, 
 torso, thumb, tattoos, tattooed, lung, 
-eyeballs, skinned, curl, heel
+eyeballs, skinned, curl, heel, hairs, fingernails
 </theme>
 
 <theme name="food" intervals="0,4,5,7,12,16,17,19" ternary="-1" melodyinstru="0,2,3,24,25,48,49,50,51,65" accompinstru="32,33,34,35,36,37,38,39" doublebeat="0" introbarcount="2" solobarcount="0">
@@ -645,7 +651,7 @@ slicing, boils, beans, crust, chewing,
 cups, ham, peeling, egg, dish, 
 ale, hass, dunkel, soda, salty, 
 sliced, vodka, dishes, pub, fork, 
-pork, cooked
+pork, cooked, spice
 </theme>
 
 <theme name="woman" intervals="0,4,5,7,12,16,17,19" ternary="-1" melodyinstru="0,2,3,24,25,48,49,50,51,65" accompinstru="32,33,34,35,36,37,38,39" doublebeat="0" introbarcount="2" solobarcount="6">
@@ -658,7 +664,8 @@ bride, heels, cute, breast, model,
 perfume, female, sublime, breasts, maiden, 
 skirt, venus, virgins, delicate, bra, 
 maid, wives, robe, undress, makeup, 
-models, curves, necklace, gorgeous, glamour, dresses
+models, curves, necklace, gorgeous, glamour, 
+dresses, seductive
 </theme>
 
 <theme name="senses" intervals="0,4,5,7,12,16,17,19" ternary="-1" melodyinstru="0,2,3,24,25,48,49,50,51,65" accompinstru="32,33,34,35,36,37,38,39" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -676,7 +683,8 @@ sees, senses, spoken, spoke, hearing,
 scent, deaf, blinding, watchin, perception, 
 blindness, gazing, blindly, unheard, mute, 
 perceive, touches, observe, deafening, silenced, 
-smelling, listens, slight, sounded, blindfold, smelled
+smelling, listens, slight, sounded, blindfold, 
+smelled, unspeakable
 </theme>
 
 <theme name="consciousness" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="104" accompinstru="33,34,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103" doublebeat="0" introbarcount="2" solobarcount="8">
@@ -715,7 +723,7 @@ enlightened, daydream, remembers, fascination, imaginary,
 existance, reminded, awareness, certainly, transcend, 
 dreamers, enlighten, lucid, wonderin, realizing, 
 asylum, hypnotic, curiosity, concentration, realised, 
-intuition, imagined, certainty
+intuition, imagined, certainty, thoughtless, conditioned
 </theme>
 
 <theme name="shame" intervals="0,2,4,9,12,14,16,21" ternary="-1" melodyinstru="8,10,40,44,45,48,49,50,51" accompinstru="32,42,43" doublebeat="0" introbarcount="3" solobarcount="1">
@@ -729,13 +737,12 @@ sinking, damnation, disgrace, choke, painful,
 selfish, invisible, vicious, feeble, pathetic, 
 punishment, betray, hypocrisy, miserable, vice, 
 submission, coward, contempt, error, disguised, 
-grotesque, submit, rejected, sinful, 
-crawls, banished, crawled, cheating, reputation, 
-whine, perversion, apologies, faults, pitiful, 
-hypocrite, losin, scourge, prick, traitor, 
-delusions, awkward, redeem, punished, 
-outcast, unwanted, failures, whipped, 
-kneeling, hypocrites, treachery, 
+grotesque, submit, rejected, sinful, crawls, 
+banished, crawled, cheating, reputation, whine, 
+perversion, apologies, faults, pitiful, hypocrite, 
+losin, scourge, prick, traitor, delusions, 
+awkward, redeem, punished, outcast, unwanted, 
+failures, whipped, kneeling, hypocrites, treachery, 
 blamed, banned, blaming, temptations, torments, 
 apology, traitors, whining, treacherous, banish
 </theme>
@@ -755,7 +762,7 @@ madman, rages, murderous, primal, chaotic,
 assholes, disturbed, maniac, bloodlust, malignant, 
 hypocrites, treachery, hater, banned, discontent, 
 arrogant, uncontrolled, nemesis, unchained, traitors, 
-insult, payback, retaliation
+insult, payback, retaliation, frustrations
 </theme>
 
 <theme name="fear" intervals="2,4,5,11,14,16,17,23" ternary="0" melodyinstru="14,19,45,48,49" accompinstru="42,43,47,116,119,127" doublebeat="1" introbarcount="2" solobarcount="4">
@@ -782,7 +789,7 @@ malignant, crypt, skeleton, skeletons, fearful,
 hellfire, petrified, ghostly, insecurity, insecurities, 
 menace, threatening, spiders, paralysed, doomsday, 
 obscured, warnings, nemesis, avoiding, ominous, 
-crypts, devilish, repulsive, threatened, freakin
+crypts, devilish, repulsive, threatened, freakin, creepy
 </theme>
 
 <theme name="sadness" intervals="0,2,4,9,12,14,16,21" ternary="-1" melodyinstru="8,10,40,44,45,48,49,50,51,73,75,77,24,25" accompinstru="32,42,43" doublebeat="0" introbarcount="2" solobarcount="4">
@@ -843,7 +850,8 @@ mesmerized, survivors, conform, manipulation, polluted,
 oxygen, conformity, mtv, pawns, fascist, 
 revolt, wastelands, headlines, lawyer, oppressed, 
 utopia, oppose, manipulate, structures, obedience, 
-stagnant, institution, governments, regime, scam, consumption
+stagnant, institution, governments, regime, scam, 
+consumption, conditioned
 </theme>
 
 <theme name="fantastic" intervals="0,2,4,9,12,14,16,21" ternary="1" melodyinstru="29,30,31,49,50,61,109" accompinstru="32,42,43,116,127" doublebeat="1" introbarcount="2" solobarcount="8">
@@ -897,10 +905,11 @@ ethereal, ghostly, conquering, phantoms, diabolical,
 ancients, troll, alliance, tribes, aflame, 
 cryptic, arcane, enchanting, elders, chief, 
 doomsday, utopia, monuments, psychic, thor, 
-tortures, demented, crypts, satans, 
-cloaked, devilish, scriptures, whipping, dungeons, 
-cannon, bravery, pillars, crowns, daggers, 
-dynasty, atlantis, horsemen, witchcraft, conqueror, ancestral
+tortures, demented, crypts, satans, cloaked, 
+devilish, scriptures, whipping, dungeons, cannon, 
+bravery, pillars, crowns, daggers, dynasty, 
+atlantis, horsemen, witchcraft, conqueror, ancestral, 
+minions, myths
 </theme>
 
 <theme name="western" intervals="0,2,4,9,12,14,16,21" ternary="-1" melodyinstru="3,22,40,105" accompinstru="32,42,43" doublebeat="1" introbarcount="3" solobarcount="6">
@@ -916,5 +925,38 @@ horizons, village, valleys, texas, county,
 western, grounds, landscapes, herd, inn, 
 mill, towns, countries, straw, suburban, 
 deserts, shovel, fences, saddle, wells, 
-horsemen, motel
+horsemen, motel, mississippi
+</theme>
+
+<theme name="newage">
+pure, love, peace, vital, healthy, 
+nature, bliss, bless, blessed, eternary, 
+spirits, nirvana, buddha, spiritual, devotion, 
+compassion, purity, aura, halo, contemplate, 
+enlightened, karma, aum, shanti, brahma, 
+shiva, meditation, meditate, vishnu, ganesha, 
+aditya, agni, antariksha, ashwinis, brihaspati, 
+dishas, dyaus, indra, marutas, moordha, 
+prajapati, prithvi, pusha, rudra, savitr, 
+soma, varuna, vayu, vishvedavas, durga, 
+parvati, lakshmi, shri, sarasvati, deva, 
+devas, trimurti, devis, devi, mandala, 
+dharma, sangha, endless, eternaryly, infinity, 
+infinite, eternal, eternally, cycle, timeless, 
+endlessly, instant, neverending, perpetual, wave, 
+harmony, waves, mind, zen, chakra, 
+emptiness, void, truth, reality, path, 
+dream, spirit, answers, meaning, life, 
+universe, exist, eternity, knowledge, wisdom, 
+illusion, aware, understanding, universal, experience, 
+balance, perfection, existence, essence, dimension, 
+evolution, dimensions, exists, absolute, intelligence, 
+afterlife, vortex, existance, transcend, enlighten, 
+transcendence, transcendent, immanence, immanent, individual, 
+connected, cosmos, think, soul, reason, 
+conscience, visions, imagination, awake, awakening, 
+awakenings, awareness, reveal, ideas, comprehend, 
+astral, trance, minds, empathy, revealed, 
+dreaming, consciousness, subconscious, unconscious, insight, 
+daydream, lucid, concentration
 </theme>
