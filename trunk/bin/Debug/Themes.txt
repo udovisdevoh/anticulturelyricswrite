@@ -928,7 +928,7 @@ deserts, shovel, fences, saddle, wells,
 horsemen, motel, mississippi
 </theme>
 
-<theme name="newage">
+<theme name="newage" intervals="0,2,4,9,12,14,16,21" ternary="0" melodyinstru="104" accompinstru="33,34,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103" doublebeat="0" introbarcount="2" solobarcount="8">
 pure, love, peace, vital, healthy, 
 nature, bliss, bless, blessed, eternary, 
 spirits, nirvana, buddha, spiritual, devotion, 
