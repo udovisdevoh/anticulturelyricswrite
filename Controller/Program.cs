@@ -7,6 +7,8 @@ namespace Ac.Lw.Controller
 {
     static class Program
     {
+        public const string languageCode = "en";
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
