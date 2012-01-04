@@ -54,9 +54,9 @@ namespace Ac.Lw.Controller
         #region Constructor
         public LyricBuilder()
         {
-            themeBase = new Model.ThemeBase("Themes.txt");
+            themeBase = new Model.ThemeBase("Themes." + Program.languageCode + ".txt");
 
-            lineBase = new Model.LineBase("lyrics.en.txt");
+            lineBase = new Model.LineBase("lyrics." + Program.languageCode + ".txt");
 
             musicPlayer = new AudioOut.MusicPlayer(themeBase);
 
